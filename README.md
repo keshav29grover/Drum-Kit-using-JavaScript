@@ -1,4 +1,4 @@
-# Drum-Kit-using-React
+# Drum-Kit-using-JavaScript
 Created a Web Application using HTML, CSS, JavaScript and React.
 ----------------------------------------------------------------
 About: 
